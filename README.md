@@ -165,3 +165,24 @@ a fine tuner for magisk audio mods from :
 
 * this version can be flashed on both newer and older audio mods
 
+
+
+# BSCDIY VERSION 3
+
+* added new parameter :
+
+* Band-optimizer "BAND-OPT"
+
+* adds an additional sharpness to audio output
+
+* Options : Y/N/L/M/H
+
+* added support for Dolby Moto G6
+
+* Note : if you already flashed the previous version
+of this (BSC DIY V2) you need to delete the
+existing BSC.conf in your internal storage,
+flash the module and it will create a new one 
+with new parameter(s)
+
+
