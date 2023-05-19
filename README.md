@@ -175,7 +175,10 @@ a fine tuner for magisk audio mods from :
 
 * adds an additional sharpness to audio output
 
-* Options : Y/N/L/M/H
+* Options : Y/N/L/M/HH
+
+
+* added function to abort installation if device is not 64 bit
 
 * added support for Dolby Moto G6
 
