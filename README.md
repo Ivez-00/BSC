@@ -181,6 +181,7 @@ a fine tuner for magisk audio mods from :
 * added function to abort installation if device is not 64 bit
 
 * added support for Dolby Moto G6
+* edit : temporarily removed Moto G6 from supported audio mods
 
 * Note : if you already flashed the previous version
 of this (BSC DIY V2) you need to delete the
