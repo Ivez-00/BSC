@@ -4,7 +4,8 @@
 
 # BSC
 
-a fine tuner for magisk audio mods from :
+a fine tuner for Device's Stock/In-Built Dolby Atmos and
+ magisk audio mods from :
  https://github.com/reiryuki
 
 
