@@ -1,12 +1,12 @@
 #!/system/bin/sh
 
 
-unzip -o "$ZIPFILE" XMLBB -d $MODPATH >&2
+unzip -o "$ZIPFILE" XMLPS -d $MODPATH >&2
 unzip -o "$ZIPFILE" service.sh -d $MODPATH >&2
 
-chmod 775 "$MODPATH/XMLBB"
+chmod 775 "$MODPATH/XMLPS"
 chmod 775 "$MODPATH/service.sh"
 
-file "$MODPATH/XMLBB" >&2
+file "$MODPATH/XMLPS" >&2
 
-$MODPATH/XMLBB
+$MODPATH/XMLPS
